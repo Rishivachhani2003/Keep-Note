@@ -43,6 +43,7 @@ const styles = StyleSheet.create({
     btn: {
         borderRadius: 5,
         width: 20,
+        margin: 20,
         height: 20,
         color: '#A7CBD9'
 
